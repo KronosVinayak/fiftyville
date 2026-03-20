@@ -3,4 +3,4 @@
 #Overview
 
 
-This program to identify movies and figure out suspect was in murder mystery game
+This program to identify movies and figure out suspect in murder mystery game
